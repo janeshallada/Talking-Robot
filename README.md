@@ -25,4 +25,3 @@ A voice-interactive robot that can listen to your speech, process the input, and
 - `pyttsx3` or `gTTS` – for text-to-speech
 - `pyaudio` or `sounddevice` – for audio input/output
 - `openai`, `transformers`, or custom logic – for AI responses
-- Optional: `tkinter` / `Flask` – GUI or web interface
